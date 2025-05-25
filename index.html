@@ -1,21 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C69HMJWJYK"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-
-      gtag('config', 'G-C69HMJWJYK');
-    </script>
+    <meta charset="UTF-8" />
     <meta
       name="viewport"
       content="width=device-width,initial-scale=1,minimum-scale=1,shrink-to-fit=0"
     />
     <title>Pop • ax710 and y-a-v-a.org • 2020</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
     <link rel="preload" href="img/dog001_2020.svg" as="image" />
     <link rel="preload" href="img/lichten1.png" as="image" />
     <link rel="preload" href="img/lichten2.png" as="image" />
@@ -52,7 +47,6 @@
         background-clip: content-box;
         background-size: contain;
         animation-iteration-count: infinite;
-        animation-duration: 12s;
         animation-duration: 20s;
         animation-timing-function: cubic-bezier(0.37, 0, 0.63, 1);
       }
@@ -71,6 +65,12 @@
 
       .stage3 {
         background-image: url('img/lichten3.png');
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .box {
+          animation: none;
+        }
       }
     </style>
   </head>
