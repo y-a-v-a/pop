@@ -8,7 +8,7 @@ Pop is a creative web project that combines visual design with interactive anima
 
 ## Creators
 
-Created by **ax710** and **y-a-v-a.org** in 2020.
+Created by [ax710](https://www.ax710.org) and [y-a-v-a.org](https://www.y-a-v-a.org) in 2020.
 
 ## Getting Started
 
