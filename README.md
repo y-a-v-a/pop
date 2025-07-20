@@ -17,9 +17,14 @@ Simply open `index.html` in a web browser to experience the interactive animatio
 ## Assets
 
 The project includes several image assets:
+
 - `dog001_2020.svg` - Initial stage animation
 - `lichten1.png`, `lichten2.png`, `lichten3.png` - Progressive animation stages
 
 ## License
 
 This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Code
+
+Vincent Bruijn <vebruijn@gmail.com> • [y-a-v-a.org](https://www.y-a-v-a.org) • (c) 2020
